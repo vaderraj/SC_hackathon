@@ -1,0 +1,3 @@
+#newsContainer::-webkit-scrollbar {
+  display: none;
+}
